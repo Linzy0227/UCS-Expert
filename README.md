@@ -1,10 +1,11 @@
 # UCS-Expert(We will release the complete code after the paper is accepted.)
 This is the official repository for UCS-Expert: High-Quality Segmentation for Any Underwater Coral Imagery.
 
-<img src="sample/fig1.png" alt="Various beautiful corals" width="400">
-
 ## We provide a simple tool for interactively segment coral images
-<img src="sample/ucs.gif" alt="UCS-Expert Demo" width="400">
+<img src="sample/ucs.gif" alt="UCS-Expert Demo" width="600">
+
+### Enjoy various beautiful corals
+<img src="sample/fig1.png" alt="Various beautiful corals" width="600">
 
 ## Getting Started
 
