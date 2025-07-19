@@ -56,7 +56,7 @@ wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
 ```
 Finally the file structure is organized as:
 ```
-I-MedSAM
+UCS-Expert
 ├── dataset
 │   ├── CoralMask
 │   |   ├── train
