@@ -1,10 +1,10 @@
 # UCS-Expert(We will release the complete code after the paper is accepted.)
-This is the official repository for UCS-Expert: High-Quality Segmentation for Any Underwater Coral Imagery.
+This is the official repository for UCS-Expert: Fine-Grained Segmentation for Any Underwater Coral Imagery.
 
 ## We provide a simple tool for interactively segment coral images
 <img src="sample/ucs.gif" alt="UCS-Expert Demo" width="600">
 
-### Enjoy various beautiful corals
+### corals in various underwater scenes
 <img src="sample/fig1.png" alt="Various beautiful corals" width="600">
 
 ## Getting Started
@@ -12,7 +12,7 @@ This is the official repository for UCS-Expert: High-Quality Segmentation for An
 Download the [model checkpoint](https://drive.google.com/xxx) and place it at e.g., `work_dir/UCS-Expert/ucs_vit_b`
 
 ### Environmental Setups
-Our code is developed on Ubuntu 20.04 using Python 3.8 and torch=2.5+cu121.
+Our code is developed on Ubuntu 20.04 using Python 3.10 and torch=2.5+cu121.
 
 ```bash
 
