@@ -1,4 +1,4 @@
-# UCS-Expert: Fine-Grained Segmentation for Any Underwater Coral Imagery(We will release the complete code after the paper is accepted.)
+# UCS-Expert: Fine-Grained Segmentation for Underwater Coral Imagery(We will release the complete code after the paper is accepted.)
 This is the official repository for UCS-Expert: Fine-Grained Segmentation for Any Underwater Coral Imagery.
 
 ## We provide a simple tool for interactively segment coral images
