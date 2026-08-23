@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.so
+
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+dataset/
+work_dir/
+output/
+checkpoint/
+sam_ckp/
+
+*.pth
+*.pt
+*.ckpt
