@@ -3,7 +3,7 @@
 python infer.py \
   --model_type vit_b \
   --checkpoint sam_ckp/sam_vit_b_01ec64.pth \
-  --resume checkpoint/ucs_b.pth \
+  --resume checkpoint/model_best.pth \
   --data_path "${DATA_PATH:-sample}" \
   --save_dir output \
   --image_size 512 \
